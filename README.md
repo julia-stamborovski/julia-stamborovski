@@ -4,7 +4,7 @@
 
 <br />
 
-> **Me chamo Júlia e gosto de ☕ **.
+> **Oi. Me chamo Júlia **.
 <br/>
 <br/>
 
