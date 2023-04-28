@@ -8,7 +8,13 @@
 <br/>
 <br/>
 
+[en] <br/> i'm a <b>full stack</b> developer. 
 
+>>Do you find here codes of django/python, java/spring boot, front end, sql and much more!
+
+  [pt -br ] </br>
+  Eu sou uma desenvolvedora <b>full stack</b>
+  >>Você encontrará aqui códigos de django/python, java/spring boot, front end, sql e muitos mais!
 
 
 
