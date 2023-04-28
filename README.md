@@ -23,3 +23,5 @@
 <br/>
 
 </div>
+
+[Júlia Shizuko Stamborovski CV](https://github.com/julia-stamborovski/julia-stamborovski/files/11356148/Julia.Shizuko.Stamborovski.desenvolvedora.pdf)
