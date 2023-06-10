@@ -1,6 +1,7 @@
 <div align="center">
 <br/>
-<img src="https://64.media.tumblr.com/0783cbef1ce385d282de93b685108727/3d0e7e5df00c2a48-a5/s250x400/64082201d6905c4fc7fc10d067d65bf71154f0e8.gifv" alt="welcome msn">
+  
+![sonia-casamento-hairaveryffinal-2](https://github.com/julia-stamborovski/julia-stamborovski/assets/87834766/1b5af22d-0d92-4b3a-aa30-aeb79c7c75f8)
 
 <br />
 
