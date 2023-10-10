@@ -10,7 +10,7 @@
 <br/>
 
 # 💫 About Me:
-🔭 I’m currently working on freelance project<br>👯 I’m looking to collaborate on python / django , java / spring boot projects<br>🤝 I’m looking for help with django and spring boot<br>🌱 I’m currently learning django /python  / java / spring boot / mongodb / oracle / postegreSQL / aws / react native / react js <br>💬 Ask me about code!<br>
+🔭 I’m currently working on freelance project<br>👯 I’m looking to collaborate on python / django / react js and react native projects<br>🤝 I’m looking for help with django and react native<br>🌱 I’m currently learning django /python / mongodb / aws / firebase / react native / react js <br>💬 Ask me about code!<br>
 
 
 ## 🌐 Socials:
