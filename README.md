@@ -32,3 +32,4 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=julia-stamborovski&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+<a href="https://app.bounties4.com/@/juliashizuko" target="_blank"><img title="bounties4.com/@/juliashizuko" alt="bounties4.com/@/juliashizuko" src="https://storage.googleapis.com/profile_avatar/production/111094593128288900402/1697466226496_badge.png" width="400" height="400" /></a>
